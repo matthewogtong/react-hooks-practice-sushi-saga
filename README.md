@@ -12,6 +12,12 @@ We've had a bit of trouble with our patented Sushi Saga conveyor belt system, so
 
 ## Setup
 
+   -App
+      -SushiContainer
+         -Sushi
+         -MoreButton
+      -Table
+
 All the sushi data about can be found in the `db.json` file. We'll
 be using `json-server` to create a RESTful API for our database.
 
